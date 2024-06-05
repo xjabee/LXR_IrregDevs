@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/StarterContent/Audio/Collapse01.uasset"
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/StarterContent/Audio/Collapse01.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Levels/Terrain1.umap"
 			]
 		}
 	]
