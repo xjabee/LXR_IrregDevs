@@ -6,7 +6,26 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/StarterContent/Audio/Collapse01.uasset",
-				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Levels/Terrain1.umap"
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Levels/Terrain1.umap",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Barbarian.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Barbarian_PhysicsAsset.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Barbarian_Skeleton.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/barbarian_texture.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Knight.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Knight_PhysicsAsset.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Knight_Skeleton.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/knight_texture.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Mage.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Mage_PhysicsAsset.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Mage_Skeleton.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/mage_texture.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Rogue.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Rogue_PhysicsAsset.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Rogue_Skeleton.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/rogue_texture.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/RogueHooded.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/RogueHooded_PhysicsAsset.uasset",
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/RogueHooded_Skeleton.uasset"
 			]
 		}
 	]
