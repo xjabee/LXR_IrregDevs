@@ -5,6 +5,19 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/brook/Documents/GitHub/LXR_IrregDevs/MyProject3/Content/Levels/Terrain1.umap",
+				"C:/Users/brook/Documents/GitHub/LXR_IrregDevs/MyProject3/Content/Megascans/Surfaces/Terrain1_Texture.uasset",
+				"C:/Users/brook/Documents/GitHub/LXR_IrregDevs/MyProject3/Content/Levels/Terrain1_sharedassets/CliffRock_LayerInfo.uasset",
+				"C:/Users/brook/Documents/GitHub/LXR_IrregDevs/MyProject3/Content/Levels/Terrain1_sharedassets/Mossy_LayerInfo.uasset",
+				"C:/Users/brook/Documents/GitHub/LXR_IrregDevs/MyProject3/Content/Assets/Rocks/rock3.uasset",
+				"C:/Users/brook/Documents/GitHub/LXR_IrregDevs/MyProject3/Content/Assets/Rocks/rock4.uasset",
+				"C:/Users/brook/Documents/GitHub/LXR_IrregDevs/MyProject3/Content/Assets/Rocks/rock5.uasset",
+				"C:/Users/brook/Documents/GitHub/LXR_IrregDevs/MyProject3/Content/Assets/Rocks/smallestrock.uasset",
+				"C:/Users/brook/Documents/GitHub/LXR_IrregDevs/MyProject3/Content/Assets/Rocks/smallrocks.uasset",
+				"C:/Users/brook/Documents/GitHub/LXR_IrregDevs/MyProject3/Content/Assets/Rocks/thinrock_Icosphere.uasset",
+				"C:/Users/brook/Documents/GitHub/LXR_IrregDevs/MyProject3/Content/Assets/Rocks/thinrock_Sphere.uasset",
+				"C:/Users/brook/Documents/GitHub/LXR_IrregDevs/MyProject3/Content/Assets/Rocks/thinrock_Sphere_001.uasset",
+				"C:/Users/brook/Documents/GitHub/LXR_IrregDevs/MyProject3/Content/Assets/Rocks/thinrock_Sphere_002.uasset",
 				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/StarterContent/Audio/Collapse01.uasset",
 				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Levels/Terrain1.umap",
 				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Textures/barbarian_texture.uasset",
@@ -210,7 +223,6 @@
 				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Knight_PhysicsAsset.uasset",
 				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Knight_Skeleton.uasset",
 				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/knight_texture.uasset",
-				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Mage.uasset",
 				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Mage_PhysicsAsset.uasset",
 				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/Mage_Skeleton.uasset",
 				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/mage_texture.uasset",
@@ -220,8 +232,7 @@
 				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/rogue_texture.uasset",
 				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/RogueHooded.uasset",
 				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/RogueHooded_PhysicsAsset.uasset",
-				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/RogueHooded_Skeleton.uasset",
-				"C:/Users/brook/Documents/GitHub/LXR_IrregDevs/MyProject3/Content/Levels/Terrain1.umap"
+				"F:/UE_Projects/LXR_IrregDevs/MyProject3/Content/Characters/ImportedCharacters/RogueHooded_Skeleton.uasset"
 			]
 		}
 	]
